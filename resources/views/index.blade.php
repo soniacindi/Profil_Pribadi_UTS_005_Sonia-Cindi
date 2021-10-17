@@ -94,17 +94,17 @@
 					<div class="resp-tab-content">
 						<div class="work w3-agileits">
 							<div class="work-info">
-								<h4>2007 - 2009</h4>
+								<h4>2015-2019</h4>
 								<h5>Universitas Negeri Surabaya</h5>
 								<p>prestasi yang telah saya dapatkan pada saat saya kuliah adalah...</p>
 							</div>
 							<div class="work-info agileinfo">
-								<h4>2004 - 2007</h4>
+								<h4>2013-2015</h4>
 								<h5>SMA Pandaan 1</h5>
 								<p>prestasi yang telah saya peroleh selama masa SMA adalah ...</p>
 							</div>
 							<div class="work-info w3layouts">
-								<h4>1995 - 2004</h4>
+								<h4>2010-2013</h4>
 								<h5>SMP Giki 1</h5>
 								<p>prestasi yang telah saya dapatkan sewaktu SMP adalah ...</p>
 							</div>
@@ -114,19 +114,19 @@
 					<div class="resp-tab-content">
 						<div class="our-skills">
 							<div class="single-skill">
-								<p class="lead">HTML</p>
+								<p class="lead"> sedikit tentang memahami javascript HTML </p>
 							</div>
 							<div class="single-skill">
-								<p class="lead">CSS</p>
+								<p class="lead">50 persen memahami CSS</p>
 							</div>
 							<div class="single-skill">
-								<p class="lead">JAVASCRIPT</p>
+								<p class="lead">70 persen memahami JAVASCRIPT</p>
 							</div>
 							<div class="single-skill">
-								<p class="lead">PHP</p>
+								<p class="lead">50 persen PHP</p>
 							</div>
 							<div class="single-skill">
-								<p class="lead">SQL</p>
+								<p class="lead">60 persen SQL</p>
 							</div>
 						</div>
 					</div>
